@@ -1,8 +1,29 @@
-## 학습 내용
-- WiSoftLab에서 진행한 세미나, 인프런 강의, 개인 학습 내용을 정리하였습니다.
-- Spring에 대한 문법과 사용법을 익힙니다.
+## Spring Notes
+Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료를 정리한 공간입니다.
 
 <br>
 
-## 내용 정리
+
+### Spring Core
+  
+<br>
+
+### Spring MVC
 - [Spring MVC Flow](https://velog.io/@woomin-wang/Spring-Spring-MVC-Flow)
+
+<br>
+
+
+### Spring Data JPA
+  
+<br>
+
+
+### Spring Boot
+  
+<br>
+
+
+### Spring Security
+  
+<br>

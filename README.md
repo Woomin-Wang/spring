@@ -5,25 +5,54 @@ Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료�
 
 
 ### Spring Core
+- IoC(Inversion of Control)
+
+- DI(Dependency Injection)
+
+- Bean
+
+- Annotation
   
 <br>
 
 ### Spring MVC
 - [Spring MVC Flow](https://velog.io/@woomin-wang/Spring-Spring-MVC-Flow)
 
+- Annotation
+
+- View
+
 <br>
 
 
 ### Spring Data JPA
+
+- JPA(Java Persistence API)
+
+- Spring Data JPA
+
+- Repository
   
 <br>
 
 
 ### Spring Boot
+
+- Auto-configuration
+
+- Embedded Server
+
+- Starter
   
 <br>
 
 
 ### Spring Security
+
+- Authentication & Authorization
+
+- Filter Chain
+
+- Principal
   
 <br>

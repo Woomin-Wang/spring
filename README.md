@@ -26,10 +26,6 @@ Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료�
 ### Spring Data JPA
 
 - JPA(Java Persistence API)
-
-- Spring Data JPA
-
-- Repository
   
 <br>
 

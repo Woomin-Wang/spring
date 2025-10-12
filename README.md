@@ -5,6 +5,7 @@ Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료�
 
 
 ### Spring Core
+
 - IoC(Inversion of Control)
 
 - DI(Dependency Injection)
@@ -16,6 +17,7 @@ Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료�
 <br>
 
 ### Spring MVC
+
 - [Spring MVC Flow](https://velog.io/@woomin-wang/Spring-Spring-MVC-Flow)
 
 - [Thymeleaf](https://github.com/Woomin-Wang/spring/blob/main/spring-mvc/thymeleaf.md)
@@ -33,20 +35,12 @@ Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료�
 ### Spring Boot
 
 - Auto-configuration
-
-- Embedded Server
-
-- Starter
   
 <br>
 
 
 ### Spring Security
 
-- Authentication & Authorization
+- [Authentication & Authorization](https://github.com/Woomin-Wang/spring/blob/main/spring-security/authentication-authorization.md)
 
-- Filter Chain
-
-- Principal
-  
 <br>

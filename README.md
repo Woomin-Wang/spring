@@ -27,7 +27,8 @@ Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료�
 
 ### Spring Data JPA
 
-- [Persistence Context](https://github.com/Woomin-Wang/spring/blob/main/spring-data-jpa/persistence-context.md)
+- [영속성 컨텍스트 (Persistence Context)](https://github.com/Woomin-Wang/spring/blob/main/spring-data-jpa/persistence-context.md)
+- [연관관계 매핑 (Relationship Mapping)]()
   
 <br>
 

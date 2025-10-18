@@ -31,7 +31,7 @@ Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료�
   
 - [연관관계 매핑 (Relationship Mapping)]()
 
-- [상속관계 매핑 (Inheritance Mapping)]()
+- [상속관계 매핑 (Inheritance Mapping)](https://github.com/Woomin-Wang/spring/blob/main/spring-data-jpa/inheritance-mapping.md)
 
 - [프록시 (Proxy)](https://github.com/Woomin-Wang/spring/blob/main/spring-data-jpa/proxy.md)
 

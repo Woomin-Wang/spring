@@ -54,3 +54,8 @@ Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료�
 - [JWT (JSON Web Tokens)]()
   
 <br>
+<br>
+<br>
+
+### [토비의 스프링 6 - 이해와 원리]
+- 

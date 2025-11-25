@@ -40,13 +40,6 @@ Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료�
 <br>
 
 
-### Spring Boot
-
-- Auto-configuration
-  
-<br>
-
-
 ### Spring Security
 
 - [Authentication, Authorization](https://github.com/Woomin-Wang/spring/blob/main/spring-security/authentication-authorization.md)

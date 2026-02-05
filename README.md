@@ -1,5 +1,6 @@
 ## Spring Notes
-Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료를 정리한 공간입니다.
+
+> Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료를 정리한 공간입니다.
 
 <br>
 
@@ -40,7 +41,7 @@ Spring Framework 학습 과정을 기록하고, 실습 코드와 참고 자료�
 <br>
 
 
-### Spring Security
+### Spring Security & JWT
 
 - [Authentication, Authorization](https://github.com/Woomin-Wang/spring/blob/main/spring-security/authentication-authorization.md)
   

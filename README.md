@@ -41,13 +41,13 @@
 <br>
 
 
-### Spring Security & JWT
+### Spring Security 
 
 - [Authentication, Authorization](https://github.com/Woomin-Wang/spring/blob/main/spring-security/authentication-authorization.md)
   
 - [JWT (JSON Web Tokens)](https://familiar-dragon-4ed.notion.site/JWT-2f0bf88cd0f580659d85cf0a61986b7d?source=copy_link)
 
-- [Spring Security에서 JWT 인증 구조 구현하기](https://medium.com/@Woomin-Wang/spring-security%EC%97%90%EC%84%9C-jwt-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0-4ef46d407845)
+- [Spring Security에서 JWT 인증 구조 설계 및 구현](https://medium.com/@Woomin-Wang/spring-security%EC%97%90%EC%84%9C-jwt-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0-4ef46d407845)
   
 <br>
 <br>

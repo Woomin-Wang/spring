@@ -14,6 +14,8 @@
 - Bean
 
 - Annotation
+
+- [Template Callback Pattern](https://familiar-dragon-4ed.notion.site/334bf88cd0f580dba8d2c6f75ed8da93?source=copy_link)
   
 <br>
 
